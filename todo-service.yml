@@ -2,3 +2,6 @@ db:
   name: todo
 hello:
   text: world
+management:
+  security:
+    enabled: false
