@@ -1,2 +1,4 @@
 db:
   name: todo
+hello:
+  text: world
